@@ -11,4 +11,5 @@ else
     python3 dbconnect.py
     python3 coffee_csv_to_db.py
     python3 crawler.py
+    jupyter notebook
 fi
